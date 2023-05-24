@@ -1,0 +1,26 @@
+input{
+    width: 200px;
+    height: 18px;
+    border: none;
+    margin-left: 10px;
+    font-size:17px;
+    margin-top: 2px;
+    font-weight: 700;
+}
+button {
+    border: none;
+    background-color: white;
+}
+form{
+    padding: 5px;
+    display: flex;
+    height: 20px;
+    margin: 0 auto;
+    width: 400px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    font-family: monospace;
+}
+input:focus{
+    outline: none;
+}
